@@ -1,0 +1,6 @@
+{
+  "name": "紫薇性格特质测试",
+  "description": "基于深度心智模型与情境决策的性格特质测评，深度解构核心潜能、天赋优势与决策风格",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
